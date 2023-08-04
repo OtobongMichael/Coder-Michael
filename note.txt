@@ -1,3 +1,4 @@
 STEPS TO USE GIT ON A PROJECT
 1. initialize git on the project(git init)
-2. 
+2. stage/add changes
+ Git add
